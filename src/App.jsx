@@ -33,7 +33,7 @@ export default function App() {
           </div>
 
           <a
-            href="https://github.com/apps/actionpilot"
+            href="https://github.com/apps/ActionPilot"
             className="px-5 py-3 rounded-2xl bg-white text-black font-semibold hover:scale-105 transition shadow-lg"
           >
             Install App
@@ -78,14 +78,14 @@ export default function App() {
           >
 
             <a
-              href="https://github.com/apps/actionpilot"
+              href="https://github.com/apps/ActionPilot"
               className="px-8 py-4 rounded-2xl bg-white text-black font-semibold hover:scale-105 transition shadow-2xl"
             >
               Install on GitHub
             </a>
 
             <a
-              href="https://github.com/spikynavin/actionpilot#readme"
+              href="https://github.com/spikynavin/ActionPilot#readme"
               className="px-8 py-4 rounded-2xl border border-slate-700 bg-slate-900/60 font-semibold hover:bg-slate-800 transition"
             >
               Documentation
